@@ -82,8 +82,6 @@ This project aims to assist in **automated disease detection** using deep learni
 - AUC-ROC  
 - Loss curves  
 
-> *(Add your actual metrics here if available for stronger impact)*
+![Model Result](./Results.png)
 
 ---
-
-## 📁 Project Structure
